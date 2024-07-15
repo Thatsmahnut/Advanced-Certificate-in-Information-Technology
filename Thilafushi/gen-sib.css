@@ -1,0 +1,6 @@
+div ~ p{
+    color: mediumseagreen;
+}
+div ~ p ~ em{
+    color: plum;
+}

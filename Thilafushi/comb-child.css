@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategrey;
+}
+div > p{
+    color: peru;
+}
+div > p > em{
+    color: palevioletred;
+}
+h1{
+    color: brown;
+}
